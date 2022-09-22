@@ -6,8 +6,8 @@
 
 ### Technical Background
 
-1. Experienced Business Intelligence Engineer driven to optimize process and streamline operations for team efficiency.
-   Proficient in SQL, JavaScript, Website development and Project management
+- Experienced Business Intelligence Engineer driven to optimize process and streamline operations for team efficiency.
+  Proficient in SQL, JavaScript, Website development and Project management
 
 <br />
 
