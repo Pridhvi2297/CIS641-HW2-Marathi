@@ -4,9 +4,9 @@
 - Technical Interests: Working on creating websites and Multi platform applications. <br />
 - Research Interests: Exploring the new technoliges on web development. <br />
 
-* Technical Background <br />
-  Experienced Business Intelligence Engineer driven to optimize process and streamline operations for team efficiency.
-  Proficient in SQL, JavaScript, Website development and Project management
+Markup : [Experienced Business Intelligence Engineer driven to optimize process and streamline operations for team efficiency.
+Proficient in SQL, JavaScript, Website development and Project management](#Technical Background )
+Technical Background <a name="Technical Background "></a>
 
 <br />
 
